@@ -41,7 +41,11 @@ nav li a {
     text-decoration: none;
 }
 
-main,
-footer {
+.center {
     text-align: center;
+}
+
+.wrapper {
+    width: 75%;
+    margin: auto;
 }
