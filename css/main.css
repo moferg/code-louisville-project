@@ -41,6 +41,8 @@ nav li a {
     text-decoration: none;
 }
 
+/* Classes */
+
 .center {
     text-align: center;
 }
@@ -48,4 +50,12 @@ nav li a {
 .wrapper {
     width: 85%;
     margin: auto;
+}
+
+.black {
+    color: black;
+}
+
+a:visited {
+    color: black;
 }
