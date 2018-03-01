@@ -52,6 +52,11 @@ nav li a {
     margin: auto;
 }
 
+.wrapper-small {
+    width: 70%;
+    margin: auto;
+}
+
 .black {
     color: black;
 }
