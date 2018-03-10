@@ -2,7 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
+This site is a portfolio, menat to showcase my future web development work to people. The site will contain a page with a brief description about me, a page containing examples of my websites, a page with contact links, and a page with my resume. This site will be desgined mobile-first and use a lightbox feature for the pictures of my websites
 
 ```
 
