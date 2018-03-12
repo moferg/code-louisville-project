@@ -114,6 +114,14 @@ nav li a {
 
 /* Media Queries */
 
-/* TODO: Add media queries*/
+@media screen and (min-width: 1024px){
+    .row {
+        display: flex;
+    }
+
+    .col {
+        flex: 50%;
+    }
+}
 
 /* /Media Queries */
