@@ -26,15 +26,20 @@ The class(es) I created are:
 
 7. .social: used to group together social media links on contact page
 
+8. .hidden: used to hide elements for the hamburger menu
+
+9. .shown: used to show elements for the hamburger menu
+
+10. .icon: used to select the hamburger menu icon
+
 ```
 
 
 
 ## Custom JavaScript Functions
 ```
-The javascript functions I created are:
+The javascript function(s) I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
+1. toggleNav(): used to toggle the nav bar after clicking on the hamburger menu
 
 ```
