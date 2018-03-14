@@ -32,6 +32,12 @@ The class(es) I created are:
 
 10. .icon: used to select the hamburger menu icon
 
+11. .active: used to style the active link on the nav bar
+
+12. .row: used to create a flex row for responsive design
+
+13. .col: used to create a flex column for responsive design
+
 ```
 
 
@@ -40,6 +46,6 @@ The class(es) I created are:
 ```
 The javascript function(s) I created are:
 
-1. toggleNav(): used to toggle the nav bar after clicking on the hamburger menu
+1. toggleNav(): used to toggle the nav bar after clicking on the hamburger menu icon
 
 ```
