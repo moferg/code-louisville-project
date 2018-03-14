@@ -69,6 +69,12 @@ nav li a {
 
 /* Classes */
 
+.active {
+    background-color: white;
+    color: black;
+    border: 3px solid #333;
+}
+
 .hidden {
     display: none;
 }
