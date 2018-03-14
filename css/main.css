@@ -78,7 +78,7 @@ nav li a {
 }
 
 .icon {
-    display: inline-block;
+    display: block;
 }
 
 .center {
