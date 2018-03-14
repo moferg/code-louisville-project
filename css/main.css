@@ -142,6 +142,7 @@ nav li a {
 /* Styled for mobile screens by default */
 
 /* TODO: add MQ for tablet screens */
+/* TODO: hide hamburger menu on tablet-laptop screens */
 
 /*Styling for laptop screens and up */
 @media screen and (min-width: 1024px){
