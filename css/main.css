@@ -65,6 +65,10 @@ nav li a {
     text-decoration: none;
 }
 
+nav li a:not(.icon) {
+    display: none;
+}
+
 /* /Nav Bar */
 
 /* Classes */
