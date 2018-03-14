@@ -124,6 +124,10 @@ nav li a {
     text-decoration: none;
 }
 
+.social a:hover {
+    text-decoration: underline;
+}
+
 .social a:visited {
     color: black;
 }
