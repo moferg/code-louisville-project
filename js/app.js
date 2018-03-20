@@ -8,3 +8,4 @@ function toggleNav() {
     }
 }
 // TODO: Rewrite using jQuery
+// TODO: Change header top-margin after clicking hamburger icon
