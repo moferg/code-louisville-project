@@ -7,3 +7,4 @@ function toggleNav() {
         x.className = "hidden";
     }
 }
+// TODO: Rewrite using jQuery
