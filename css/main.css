@@ -153,6 +153,14 @@ nav li a {
     .col {
         flex: 50%;
     }
+
+    .icon {
+        display: none;
+    }
+
+    .hidden {
+        display: inline-block;
+    }
 }
 
 /* /Media Queries */
