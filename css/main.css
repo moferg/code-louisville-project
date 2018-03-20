@@ -141,10 +141,14 @@ nav li a {
 
 /* Styled for mobile screens by default */
 
-/* TODO: add MQ for tablet screens */
-/* TODO: hide hamburger menu on tablet-laptop screens */
+/* Styling for tablet screens and up */
+@media screen and (min-width: 768px){
+    .wrapper-xsmall{
+        width: 30%;
+    }
+}
 
-/*Styling for laptop screens and up */
+/* Styling for laptop screens and up */
 @media screen and (min-width: 1024px){
     .row {
         display: flex;
@@ -160,6 +164,10 @@ nav li a {
 
     .hidden {
         display: inline-block;
+    }
+
+    .wrapper-xsmall {
+        width: 20%;
     }
 }
 
