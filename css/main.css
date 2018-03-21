@@ -173,6 +173,10 @@ nav li a {
     
     /* Main Styling */
 
+    header h1 {
+        padding-top: 35px;
+    }
+
     header h1,
     header h3, 
     nav {
@@ -182,6 +186,7 @@ nav li a {
 
     nav ul {
         display: inline-block;
+        padding-bottom: 15px;
     }
 
     /* /Main Styling */
