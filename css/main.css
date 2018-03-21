@@ -143,6 +143,10 @@ nav li a {
     
     /* Main Styling */
 
+    main {
+        margin-top: 225px;
+    }
+
     header h1 {
         font-size: 2.5rem;
     }
