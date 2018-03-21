@@ -46,6 +46,6 @@ The class(es) I created are:
 ```
 The javascript function(s) I created are:
 
-1. toggleNav(): used to toggle the nav bar after clicking on the hamburger menu icon
+1. toggleNav(): used to toggle the nav bar and increase the top margin of the content heading after clicking on the hamburger menu icon
 
 ```
