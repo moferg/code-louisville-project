@@ -41,6 +41,17 @@ The class(es) I created are:
 ```
 
 
+## Custom IDs
+```
+The ID(s) I created are: 
+
+1. #hidden: used to select and show/hide nav bar in toggleNav() function
+
+2. #content-heading: used to select and increase margin of headings in toggleNav() function
+
+```
+
+
 
 ## Custom JavaScript Functions
 ```
