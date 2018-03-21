@@ -201,6 +201,7 @@ nav li a {
     nav li a:hover{
         border: 3px solid white;
     }
+    /* TODO: Change :hover behavior so text does not move on hover */
 
     /* /Nav Bar */
 
