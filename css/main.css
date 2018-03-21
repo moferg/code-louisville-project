@@ -127,12 +127,12 @@ nav li a {
     text-decoration: none;
 }
 
-.social a:hover {
-    text-decoration: underline;
-}
-
 .social a:visited {
     color: black;
+}
+
+.social a:hover {
+    text-decoration: underline;
 }
 
 /* /Classes */
@@ -153,6 +153,16 @@ nav li a {
 
 /* Styling for laptop screens and up */
 @media screen and (min-width: 1024px){
+    /* Nav Bar */
+
+    nav li a:hover{
+        border: 3px solid white;
+    }
+
+    /* /Nav Bar */
+
+    /* Classes */
+
     .row {
         display: flex;
     }
@@ -172,6 +182,8 @@ nav li a {
     .wrapper-xsmall {
         width: 20%;
     }
+
+    /* /Classes */
 }
 
 /* TODO: make header/nav bar align left on laptop screens and up */
