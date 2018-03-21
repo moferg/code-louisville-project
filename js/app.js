@@ -6,7 +6,7 @@ function toggleNav() {
     
     if (nav.className === "hidden") {
         nav.className = " shown";
-        heading.style.marginTop = "250px";
+        heading.style.marginTop = "260px";
     }
     else {
         nav.className = "hidden";
