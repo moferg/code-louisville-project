@@ -162,14 +162,29 @@ nav li a {
     /* /Classes */
 }
 
-/* TODO: make page header larger on tablet screens. */
 /* TODO: make wrapper smaller on index/portfolio page for tablet screens and up */ 
 
 /* Styling for laptop screens and up */
 @media screen and (min-width: 1024px){
     
+    /* Main Styling */
+
+    header h1,
+    header h3, 
+    nav {
+        text-align: left;
+        margin-left: 7.5%;
+    }
+
+    nav ul {
+        display: inline-block;
+    }
+
+    /* /Main Styling */
+
     /* Nav Bar */
-        /* This rule is in media query so it does not conflict with the hamburger menu */
+
+    /* This rule is in media query so it does not conflict with the hamburger menu */
     nav li a:hover{
         border: 3px solid white;
     }
@@ -200,7 +215,5 @@ nav li a {
 
     /* /Classes */
 }
-
-/* TODO: make header/nav bar align left on laptop screens and up */
 
 /* /Media Queries */
