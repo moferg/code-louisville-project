@@ -1,10 +1,10 @@
 function toggleNav() {
-    var x = document.getElementById("hidden");
-    if (x.className === "hidden") {
-        x.className = " shown";
+    var nav = document.getElementById("hidden");
+    if (nav.className === "hidden") {
+        nav.className = " shown";
     }
     else {
-        x.className = "hidden";
+        nav.className = "hidden";
     }
 }
 // TODO: Rewrite using jQuery
