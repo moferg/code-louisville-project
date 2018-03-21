@@ -25,7 +25,6 @@ header h3 {
     text-align: center;
 }
 
-/* TODO: make header/top margins responsive to hamburger menu */
 main {
     margin-top: 185px;
     margin-bottom: 75px;
@@ -141,9 +140,26 @@ nav li a {
 
 /* Styling for tablet screens and up */
 @media screen and (min-width: 768px){
+    
+    /* Main Styling */
+
+    header h1 {
+        font-size: 2.5rem;
+    }
+
+    header h3 {
+        font-size: 1.25rem;
+    }
+
+    /* /Main Styling */
+
+    /* Classes */
+    
     .wrapper-xsmall{
         width: 30%;
     }
+
+    /* /Classes */
 }
 
 /* TODO: make page header larger on tablet screens. */
@@ -151,6 +167,7 @@ nav li a {
 
 /* Styling for laptop screens and up */
 @media screen and (min-width: 1024px){
+    
     /* Nav Bar */
         /* This rule is in media query so it does not conflict with the hamburger menu */
     nav li a:hover{
