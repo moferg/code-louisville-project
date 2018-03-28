@@ -198,10 +198,9 @@ nav li a {
     /* Nav Bar */
 
     /* This rule is in media query so it does not conflict with the hamburger menu */
-    nav li a:hover{
-        border: 3px solid white;
+    nav li a:hover:not(.active){
+        text-decoration: underline;
     }
-    /* TODO: Change :hover behavior so text does not move on hover */
 
     /* /Nav Bar */
 
